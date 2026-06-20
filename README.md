@@ -1,2 +1,2 @@
 # Chronicle is a personal observability tool for Linux. 
-***It runs quietly in the background and records things like application usage, browser activity, and window history. Think of it as a flight recorder for your computer it builds a timeline of your digital life that you can explore later from the terminal. Everything is stored locally, with no cloud services, accounts, or subscriptions.***x
+***It runs quietly in the background and records things like application usage, browser activity, and window history. Think of it as a flight recorder for your computer it builds a timeline of your digital life that you can explore later from the terminal. Everything is stored locally, with no cloud services, accounts, or subscriptions.***
